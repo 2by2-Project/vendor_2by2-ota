@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1743871656,
+      "filename": "2by2-Project-Vanadium-penang-ota-prod-20250406-014741.zip",
+      "payload": [
+        {
+          "offset": 4002,
+          "FILE_HASH": "7PEi3xrIT0ZZF6nzxSU6YWKRKughcTqNTZHtkOnTGgA=",
+          "FILE_SIZE": "2410794533",
+          "METADATA_HASH": "gHA8MzJ5Vsz6SMa7+o/oqSbVbMC56HQqlv5OaBnHqa8=",
+          "METADATA_SIZE": "101487"
+        }
+      ]
+    }
+  ]
+}

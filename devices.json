@@ -1,0 +1,11 @@
+{
+  "devices": [
+    {
+      "codename": "penang",
+      "manufacturer": "Motorola",
+      "name": "Moto G53 5G",
+      "recovery_images": ["boot", "vendor_boot", "dtbo"],
+      "copy_partitions": true
+    }
+  ]
+}

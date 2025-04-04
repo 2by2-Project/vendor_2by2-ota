@@ -1,0 +1,51 @@
+2025/04/05
+- 2by2 Project version 1.0 Vanadium
+
+2025/02/25
+- February 2025 Security patches
+- Introduce MotCamera4 (Photo mode only)
+
+2025/02/09
+- January 2025 Security patches
+- Switched to erofs for better performance
+- Disable MobileFelicaClient for non-JP variants
+
+2024/12/31
+- Update to Android 15
+- December 2024 Security patches
+- Fixed status bar text position
+- Handle SKU differences at better way
+- Include MobileFeliCaClient for JP variant
+- Optimization for low RAM variants
+
+2024/09/18
+- Synced to latest sources
+- Refactor some trees
+- Improve system performance
+
+2024/09/08
+- September 2024 security patches
+- Enabled low ram optimization
+- Maybe fixed some apps microphone issues
+
+2024/08/23
+- Import fpsensor deps on this build. Might be fixed fingerprint missing.
+- OTA updater returns. no bootlooping issue anymore
+
+2024/08/16
+- August 2024 security patches
+- Import missing fingerprint blobs
+- Fixed FM radio lags
+
+2024/07/11
+- July 2024 security patches
+- Revert back to AOSP NFC implements (Felica still enabled)
+- Fixed Osaifu-keitai app not working on Y!mobile variants
+- Exclude updater to avoid unexpected bootloops
+- Improved UI performance
+
+2024/06/16
+- Start OTA update
+
+2024/06/15
+- Switch to NXP NFC & Enable Felica features
