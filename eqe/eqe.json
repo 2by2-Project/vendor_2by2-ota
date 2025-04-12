@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1744385699,
+      "filename": "2by2-Project-Vanadium-eqe-ota-prod-20250412-003503.zip",
+      "payload": [
+        {
+          "offset": 3974,
+          "FILE_HASH": "0W41oraPgi5PQiIiWH7089n4Gi5DuF9K7/Izza9M/hI=",
+          "FILE_SIZE": "2313278763",
+          "METADATA_HASH": "oVCYrvJe/GDfHyWwEmLOxfBDTjm8YSma2iTzBA3M6do=",
+          "METADATA_SIZE": "181507"
+        }
+      ]
+    }
+  ]
+}

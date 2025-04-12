@@ -1,6 +1,13 @@
 {
   "devices": [
     {
+      "codename": "eqe",
+      "manufacturer": "Motorola",
+      "name": "Motorola edge 50 / 50s pro",
+      "recovery_images": ["vendor_boot", "recovery"],
+      "copy_partitions": true
+    },
+    {
       "codename": "penang",
       "manufacturer": "Motorola",
       "name": "Moto G53 5G",
