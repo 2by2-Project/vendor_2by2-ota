@@ -1,0 +1,9 @@
+2025/06/09
+- 2by2 Project version 1.5 Vanadium
+- May 2025 security patches
+
+* NOTE: Felica & eSIM is not yet implemented
+
+2024/08/19
+- August security patches
+- Enable Felica, eSIM features

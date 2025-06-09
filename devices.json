@@ -1,6 +1,12 @@
 {
   "devices": [
     {
+      "codename": "veux",
+      "manufacturer": "Xiaomi",
+      "name": "Redmi Note 11 Pro 5G",
+      "recovery_images": ["boot", "vendor_boot", "dtbo"]
+    },
+    {
       "codename": "eqe",
       "manufacturer": "Motorola",
       "name": "Motorola edge 50 / 50s pro",

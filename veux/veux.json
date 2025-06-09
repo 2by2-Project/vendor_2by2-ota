@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1749461192,
+      "filename": "2by2-Project-Vanadium-veux-ota-prod-20250609-182938.zip",
+      "payload": [
+        {
+          "offset": 3932,
+          "FILE_HASH": "fB/3SOosa5ukKD50d+QoANV7YkffjCz3WK1eUbs7qhQ=",
+          "FILE_SIZE": "2032916524",
+          "METADATA_HASH": "pk+sMgGXufJQ7UUwMmxRvU+h9HyUizuDsw1p6n3FmnQ=",
+          "METADATA_SIZE": "242465"
+        }
+      ]
+    }
+  ]
+}
