@@ -1,3 +1,8 @@
+2025/07/07
+- 2by2 Project version 2.0 Bismuth
+- June 2025 security patches
+- Enabled Felica & eSIM functionality
+
 2025/06/09
 - 2by2 Project version 1.5 Vanadium
 - May 2025 security patches

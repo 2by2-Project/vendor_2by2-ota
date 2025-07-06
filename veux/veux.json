@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1749461192,
-      "filename": "2by2-Project-Vanadium-veux-ota-prod-20250609-182938.zip",
+      "datetime": 1751817176,
+      "filename": "2by2-Project-Bismuth-veux-ota-prod-20250707-005759.zip",
       "payload": [
         {
-          "offset": 3932,
-          "FILE_HASH": "fB/3SOosa5ukKD50d+QoANV7YkffjCz3WK1eUbs7qhQ=",
-          "FILE_SIZE": "2032916524",
-          "METADATA_HASH": "pk+sMgGXufJQ7UUwMmxRvU+h9HyUizuDsw1p6n3FmnQ=",
-          "METADATA_SIZE": "242465"
+          "offset": 4004,
+          "FILE_HASH": "OVxkJ8t6EnfV5aIPFQlTrFAyWWIJ/tpc5OT72YkP5Mw=",
+          "FILE_SIZE": "2043384391",
+          "METADATA_HASH": "84EwC9zodqpVWBaEARmYRaiNb6cwRCTIcMZPM6XeTGc=",
+          "METADATA_SIZE": "247671"
         }
       ]
     }
