@@ -4,12 +4,14 @@
       "codename": "veux",
       "manufacturer": "Xiaomi",
       "name": "Redmi Note 11 Pro 5G",
+      "version": "16",
       "recovery_images": ["boot", "vendor_boot", "dtbo"]
     },
     {
       "codename": "eqe",
       "manufacturer": "Motorola",
       "name": "Motorola edge 50 / 50s pro",
+      "version": "15",
       "recovery_images": ["vendor_boot", "recovery"],
       "copy_partitions": true
     },
@@ -17,6 +19,7 @@
       "codename": "penang",
       "manufacturer": "Motorola",
       "name": "Moto G53 5G",
+      "version": "15",
       "recovery_images": ["boot", "vendor_boot", "dtbo"],
       "copy_partitions": true
     }
