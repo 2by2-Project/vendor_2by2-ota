@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1753802468,
+      "filename": "2by2-Project-Bismuth-M06-ota-prod-20250730-002250.zip",
+      "payload": [
+        {
+          "offset": 3909,
+          "FILE_HASH": "05EnsYzjd+IpIj4tcwmSQC/bnrDyMRxuBDknCgaH+QA=",
+          "FILE_SIZE": "1937880642",
+          "METADATA_HASH": "Pq7CO29ns9DRa2yb4xpK4xeOknwlS4F7fCvfKIxfekQ=",
+          "METADATA_SIZE": "155122"
+        }
+      ]
+    }
+  ]
+}
