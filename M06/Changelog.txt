@@ -1,2 +1,9 @@
+2025/08/20
+- Synced to latest sources
+- Update vendor blobs & kernel to V31RM50D (Android 15)
+- Introduce double tap to wake gesture
+- Fixed Camera OIS issue
+- Updated regulatory info
+
 2025/07/30
 - Initial Release
