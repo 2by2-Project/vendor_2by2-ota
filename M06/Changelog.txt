@@ -1,3 +1,9 @@
+2025/08/23
+- Fixed audio volume issues
+- Fixed DT2W automatically disable issues
+- Improved system performance
+- Introduce Pocket Lock feature
+
 2025/08/20
 - Synced to latest sources
 - Update vendor blobs & kernel to V31RM50D (Android 15)
