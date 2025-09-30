@@ -1,0 +1,4 @@
+2025/10/01
+- Initial Android 16 release
+- September 2025 security patches
+- Felica is enabled

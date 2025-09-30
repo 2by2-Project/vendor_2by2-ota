@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1759242063,
+      "filename": "2by2-Project-Bismuth-fuji-ota-prod-20250930-232111.zip",
+      "payload": [
+        {
+          "offset": 4098,
+          "FILE_HASH": "PZrM9ZpCGMFwBzTNHA2Tgz7endgSNdbinHMj78GHwKk=",
+          "FILE_SIZE": "3112147491",
+          "METADATA_HASH": "WkbQ/3WRP+yIMpFPxu3RhKmUDhTtojndWo6w2V3bYlM=",
+          "METADATA_SIZE": "114084"
+        }
+      ]
+    }
+  ]
+}

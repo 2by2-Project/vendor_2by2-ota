@@ -1,6 +1,13 @@
 {
   "devices": [
     {
+      "codename": "fuji",
+      "manufacturer": "FCNT",
+      "name": "arrows Alpha",
+      "version": "16",
+      "recovery_images": ["vendor_boot"]
+    },
+    {
       "codename": "M06",
       "manufacturer": "FCNT",
       "name": "arrows We2 Plus",
