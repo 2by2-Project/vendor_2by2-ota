@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1759242063,
-      "filename": "2by2-Project-Bismuth-fuji-ota-prod-20250930-232111.zip",
+      "datetime": 1759415654,
+      "filename": "2by2-Project-Bismuth-fuji-ota-prod-20251002-233701.zip",
       "payload": [
         {
           "offset": 4098,
-          "FILE_HASH": "PZrM9ZpCGMFwBzTNHA2Tgz7endgSNdbinHMj78GHwKk=",
-          "FILE_SIZE": "3112147491",
-          "METADATA_HASH": "WkbQ/3WRP+yIMpFPxu3RhKmUDhTtojndWo6w2V3bYlM=",
-          "METADATA_SIZE": "114084"
+          "FILE_HASH": "UL+cgmpTDeVHBRNcHe/f0Wm9npHu6b9OUzMeFqzQjDQ=",
+          "FILE_SIZE": "3215698803",
+          "METADATA_HASH": "qOm9gwwLdLSk0Uq7a91L4kaNpddnI/QwR+IMxuGR6no=",
+          "METADATA_SIZE": "117562"
         }
       ]
     }
