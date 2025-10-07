@@ -1,3 +1,8 @@
+2025/10/07
+- Fixed docomo Mobile data, VoLTE
+- Fixed GNSS crashes
+- Updated power profile
+
 2025/10/03
 - Switched mediaserver and drmserver to full 64-bit variant
 - Introduce MotCamera5FCNT
