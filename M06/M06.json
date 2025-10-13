@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1755873035,
-      "filename": "2by2-Project-Bismuth-M06-ota-prod-20250822-233231.zip",
+      "datetime": 1760362920,
+      "filename": "2by2-Project-Bismuth-M06-ota-prod-20251013-224325.zip",
       "payload": [
         {
           "offset": 3909,
-          "FILE_HASH": "FvKV/WKQL4Yn8Z4LShm1jaw4AdkphhSnoeiEfQ4B3fI=",
-          "FILE_SIZE": "1981233035",
-          "METADATA_HASH": "z8+r6ElrGgVbi5GGyqY08Zz/zgBp9UR4StNyT6q5rRY=",
-          "METADATA_SIZE": "156985"
+          "FILE_HASH": "Au9G0bHs94G6hQE4NcJjNWH4Elx0aCXPfrNBi3VZ8F8=",
+          "FILE_SIZE": "1982175123",
+          "METADATA_HASH": "zwB9qV0cwCzaJxC0c9q68ehUvhm9J6xPBRyvdHEqVPg=",
+          "METADATA_SIZE": "157041"
         }
       ]
     }

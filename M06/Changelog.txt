@@ -1,3 +1,8 @@
+2025/10/14
+- September 2025 security patches
+- Switched to stock AIDL fingerprint HAL
+- Improved system performance
+
 2025/08/23
 - Fixed audio volume issues
 - Fixed DT2W automatically disable issues
