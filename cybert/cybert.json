@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1760441398,
+      "filename": "2by2-Project-Bismuth-cybert-ota-20251014-203253.zip",
+      "payload": [
+        {
+          "offset": 4259,
+          "FILE_HASH": "M5AKRc5UolIW8Ol77ffBROOcmETGNFdxOZ4I+zzgWl0=",
+          "FILE_SIZE": "3154974263",
+          "METADATA_HASH": "HQRT5L/EfI4BT3NsNSDTMdLLDiqWkrO3ddzHx++pzaU=",
+          "METADATA_SIZE": "116586"
+        }
+      ]
+    }
+  ]
+}

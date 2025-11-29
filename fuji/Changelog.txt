@@ -1,3 +1,9 @@
+2025/12/04
+- Updated vendor blobs to V2VH35.58-32-41
+- Fixed MotCamera5FCNT post processing and crash issue
+- Introduce Felica Reset feature
+- Added Lalasia connect app
+
 2025/10/07
 - Fixed docomo Mobile data, VoLTE
 - Fixed GNSS crashes
